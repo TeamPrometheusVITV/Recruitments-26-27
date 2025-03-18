@@ -1,67 +1,139 @@
 ![Team Banner](/images/Team%20Banner.png)
 
-# Management Recruitment Task 2025-26
+# Team Prometheus Management Recruitment 2025-26
 
-Welcome to the management recruitment process for Team Prometheus! In this round, you'll showcase your project planning skills by transforming a set of project tasks into a clear, actionable timeline. We’re excited to see your strategic approach to task coordination and time management.
+## Welcome to Team Prometheus!
 
----
+We're excited to have you participate in our management recruitment process designed to identify individuals with exceptional project planning, strategic thinking, and creative communication skills.
+
+## Recruitment Process Overview
+
+This selection process consists of three distinct tasks:
+
+| Task | Description | Requirement |
+|------|-------------|-------------|
+| **Task 1** | Project Planning & Gantt Chart Creation | **Mandatory** |
+| **Task 2** | Sponsorship Strategy Development | Optional |
+| **Task 3** | Creative Communication Development | Optional |
+
+**Important Requirements:**
+- All candidates must complete Task 1
+- You must choose at least one additional task (Task 2 or Task 3)
+- Select Task 2 or Task 3 based on your interest in management or PR roles respectively
 
 ## Task 1: Project Planning & Gantt Chart Creation
 
-### Overview
+### Challenge Overview
 
-In this task, you are provided with a [demo scenario](/Tasks/demo_scenario.md) that includes a set of project tasks in a jumbled order (or detailed task descriptions that require careful sorting). Your challenge is to:
-
-- Review and understand the scenario.
-- Organize the tasks into a coherent timeline.
-- Highlight task dependencies and milestones.
-- Create a comprehensive Gantt chart outlining the project schedule.
+You will be provided with a project scenario containing tasks in a jumbled order. Your mission is to:
+- Organize these tasks into a logical timeline
+- Identify dependencies between tasks
+- Create a comprehensive Gantt chart for the project
 
 ### Instructions
 
-1. **Review the Scenario:**
+1. **Analyze the Scenario**
+   - Review all project tasks carefully
+   - Determine logical sequences and dependencies
 
-   - Analyze the provided project tasks.
-   - Identify dependencies, priorities, and logical sequences.
+2. **Choose Your Tool**
+   - **GanttProject** (open-source)
+   - **EdrawMax Online** (web-based)
+   - **Excel** (with templates or custom design)
 
-2. **Choose Your Tool:**  
-   You may use any of the following tools to create your Gantt chart:
+3. **Gantt Chart Requirements**
+   - Include all tasks with start/end dates
+   - Clearly mark dependencies and milestones
+   - Present a realistic, well-organized timeline
 
-   - **GanttProject:** An open-source tool, easy to download.
-   - **EdrawMax Online:** A flexible online diagramming tool.
-   - **Excel:** Use built-in templates or design your custom chart.
-
-3. **Gantt Chart Requirements:**
-
-   - Clearly list all tasks with their start and end dates.
-   - Indicate task dependencies and key milestones.
-   - Ensure the chart reflects a well-organized, realistic project timeline.
-
-4. **Submission Format:**
-   - Export your Gantt chart as an **.xlsx** file.
-   - Include brief documentation (within the Excel file or as a separate Markdown document) that outlines your methodology and reasoning.
+4. **Submission Format**
+   - Export your chart as an **.xlsx** file
+   - Include documentation explaining your methodology
 
 ### Deliverables
 
-For Task 1, please submit the following:
+- **Gantt Chart** (.xlsx format)
+- **Documentation** explaining your planning approach (optional)
 
-- **Gantt Chart File:**  
-  Submit a completed **.xlsx** file containing the Gantt chart you created based on the scenario.
-- **Supporting Documentation (Optional):**  
-  Attach any notes or brief explanations that detail your thought process and planning strategy.
+> **Note:** We value your thought process as much as the final product. Your ability to organize complex tasks and explain your methodology clearly is essential.
 
-> **Note:** We are as interested in your approach and thought process as we are in the final output. Your ability to break down complex tasks and articulate your method clearly is key.
+### Demo Scenario for Task 1
 
----
+[Demo scenario details for Task 1 to be added here]
 
-## Task 2
+## Task 2: Sponsorship Strategy Development
 
-<!-- Additional details for Task 2 will be provided soon. Stay tuned! -->
+### Challenge Overview
 
----
+Develop a comprehensive sponsorship strategy for our RoboCup Small Size League team.
 
-We look forward to seeing your strategic planning in action. This task is designed to assess your capability to transform a messy set of tasks into a clear, organized, and executable plan—a crucial skill for effective management.
+### Instructions
 
-If you have any questions or need clarification during the process, engage with your peers or reach out through the appropriate channels.
+1. **Select 10 Companies**
+   - Choose from diverse domains (mechanical, software, electrical)
+   - Include variety in company size and geographic location
 
-_— Team Prometheus_
+2. **Needs Assessment**
+   - Analyze potential benefits for each company
+   - Identify alignment between company goals and our team objectives
+
+3. **Strategy Development**
+   - Create tailored approaches for each company
+   - Develop value propositions and engagement methods
+
+### Deliverables
+
+- **Sponsorship Strategy Document** (detailed analysis and approach)
+- **Presentation Slides** (optional summary)
+
+## Task 3: Creative Communication Development
+
+### Challenge Overview
+
+Create engaging communication materials to showcase our team's work and achievements.
+
+### Instructions
+
+1. **Scenario Analysis**
+   - Review the provided scenario
+   - Identify key messages and target audiences
+
+2. **Format Selection**
+   - Create a poster, video, or both
+   - Focus on creativity and engagement
+
+3. **Design Requirements**
+   - Maintain team branding consistency
+   - Use effective visual elements
+   - Create informative and engaging content
+
+### Deliverables
+
+- **Poster** (high-resolution PDF/JPG)
+- **Video** (1-3 minute MP4)
+- **Design Brief** explaining your creative choices
+
+> **Special Note:** Exceptional PR submissions may qualify for exemption from round 3 of the selection process.
+
+### Demo Scenario for Task 3
+
+[Demo scenario details for Task 3 to be added here]
+
+## Evaluation Criteria
+
+Your work will be evaluated based on:
+- Thoroughness and clarity
+- Strategic thinking and problem-solving
+- Creativity and innovation
+- Attention to detail
+- Professional presentation
+
+## Questions?
+
+If you need clarification during the process, please:
+- Connect with your peers
+- Reach out through our designated communication channels
+
+We look forward to seeing your strategic planning abilities in action!
+
+*— Team Prometheus*

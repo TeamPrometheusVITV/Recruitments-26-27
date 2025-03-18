@@ -57,9 +57,9 @@ You will be provided with a project scenario containing tasks in a jumbled order
 
 > **Note:** We value your thought process as much as the final product. Your ability to organize complex tasks and explain your methodology clearly is essential.
 
-### Demo Scenario for Task 1
+### Scenario for Task 1
 
-[Demo scenario details for Task 1 to be added here]
+The detailed project scenario for Task 1 is available at: [Project Scenario](https://github.com/TeamPrometheusML/Recruitments-25-26/blob/main/Tasks/demo_scenario_1.md)
 
 ## Task 2: Sponsorship Strategy Development
 
@@ -90,34 +90,36 @@ Develop a comprehensive sponsorship strategy for our RoboCup Small Size League t
 
 ### Challenge Overview
 
-Create engaging communication materials to showcase our team's work and achievements.
+Create engaging communication materials to showcase our team's work and achievements in the RoboCup Small Size League.
 
 ### Instructions
 
-1. **Scenario Analysis**
-   - Review the provided scenario
-   - Identify key messages and target audiences
+1. **Poster Creation**
+   - Design an informative poster about RoboCup and Team Prometheus
+   - Balance technical information with accessible explanations
+   - Incorporate team branding elements
 
-2. **Format Selection**
-   - Create a poster, video, or both
-   - Focus on creativity and engagement
+2. **Interview Video**
+   - Create a 2-3 minute interview/podcast style video
+   - Feature yourself as interviewer and one person as interviewee
+   - Discuss Team Prometheus and RoboCup competition
 
-3. **Design Requirements**
-   - Maintain team branding consistency
-   - Use effective visual elements
-   - Create informative and engaging content
+3. **Design Documentation**
+   - Explain your creative approach and design choices
+   - Describe how materials align with team objectives
+
+### Reference Materials
+- RoboWednesday poster example: [RoboWednesday Poster](https://drive.google.com/file/d/1beTSb_xnYIKDG9AsYTfqey7rNoXlaoPR/view?usp=sharing)
+- Team demo video for context: [Team Demo Video](https://drive.google.com/file/d/1G3Waak_-kPVXrNQTSPJppkXDJ_8Fntmu/view?usp=sharing)
+- Team logo for branding: [Team Logo](https://drive.google.com/file/d/1Y_2MmVUAja1mAbbSZ47mt8wqaKLR89sS/view?usp=sharing)
 
 ### Deliverables
 
 - **Poster** (high-resolution PDF/JPG)
-- **Video** (1-3 minute MP4)
-- **Design Brief** explaining your creative choices
+- **Interview Video** (2-3 minute MP4)
+- **Design Brief** explaining your creative choices (1-page PDF)
 
 > **Special Note:** Exceptional PR submissions may qualify for exemption from round 3 of the selection process.
-
-### Demo Scenario for Task 3
-
-[Demo scenario details for Task 3 to be added here]
 
 ## Evaluation Criteria
 

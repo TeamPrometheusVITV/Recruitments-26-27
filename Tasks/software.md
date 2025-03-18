@@ -1,47 +1,61 @@
 ![Team Banner](/images/Team%20Banner.png)
 
-# Software Recruitment Task 2025-26
+# RoboCup SSL Software Team Recruitment Tasks 2025-26
 
-Welcome to the recruitment process for the Software team! In this round, you'll tackle tasks that evaluate not just your coding ability but also your methodology in model training and dataset creation. We encourage you to leverage available free resources like Kaggle, Google Colab, and Roboflow—but remember, the core focus is on your understanding of the tools and techniques.
-
----
+Welcome to the recruitment process for the RoboCup SSL Software team! This repository contains two tasks designed to evaluate your understanding of computer vision, machine learning, and data processing in the context of robotic soccer.
 
 ## Task 1: Ball Detection Dataset & Model Training
 
 ### Overview
-
 In this task, you will:
+- **Create a Ball Detection Dataset**
+  - Use Roboflow to build your own dataset for ball detection
+  - Limited to 20 images maximum
+  - Focus on understanding the basics of dataset creation
 
-- **Create a Ball Detection Dataset:**
-
-  - Use [Roboflow](https://app.roboflow.com/) to build your own dataset for ball detection.
-  - You may use no more than 20 images. This exercise is designed to introduce you to the basics of dataset creation on Roboflow.
-
-- **Train a Model:**
-  - Train your model on a free GPU using either [Kaggle](https://www.kaggle.com/) or [Google Colab](https://colab.research.google.com/).
-  - Optionally, you can incorporate any open source dataset you find online. The dataset need not be specific to RoboCup Robosoccer, but extra points will be awarded for a well-curated dataset.
+- **Train a Detection Model**
+  - Train your model using free GPU resources (Kaggle or Google Colab)
+  - Optionally incorporate open source datasets
+  - Extra points for well-curated datasets
 
 ### Deliverables
+- Trained model file (`.pt`, `.pth`, `.bin`, `.onnx`, `.t5`, or other standard format)
+- Screenshot of your Roboflow dataset
+- Link to any open source dataset used (if applicable)
+- Brief explanation of your methodology and approach
 
-Please include the following in your submission:
+## Task 2: RoboCup SSL Log Processing & ML Application
 
-- **Trained Model File:**  
-  Your model should be saved in one of these standard formats: `.pt`, `.pth`, `.bin`, `.onnx`, `.t5`, or any other common type.
+### Overview
+In this task, you will:
+- **Create a Data Pipeline**
+  - Convert RoboCup SSL log files (`.log.gz` format) to CSV
+  - Process data from official logs (2016-2024) available [here](https://cloud.robocup.org/s/2mkwfxZjPf6NBPS)
+  
+- **Perform Exploratory Data Analysis**
+  - Analyze the processed data to understand patterns and insights
+  - Create at least 3 visualization diagrams
+  
+- **Develop ML/DL Models**
+  - Train models for any purpose within the RoboCup domain
+  - Suggested applications: pass prediction, shot prediction, tackling, goalkeeping, etc.
 
-- **Roboflow Dataset Image:**  
-  Attach an image from the dataset you created in Roboflow within your Markdown submission.
+### Deliverables
+- Comprehensive project documentation
+- At least 3 EDA visualization diagrams
+- System diagram for your ML process
+- Detailed reasoning for your methodology choices
+- Discussion of potential improvements
+- Sample trained model(s)
 
-- **Link to Open Source Dataset (if used):**  
-  Provide the URL or reference to the open source dataset you used, if applicable.
+## Resources
+- [RoboCup SSL Official Repository](https://github.com/RoboCup-SSL)
+- Free tools: Kaggle, Google Colab, Roboflow
 
-> **Note:** We are more interested in your methodology—the thought process, data curation, and implementation steps—rather than the sheer scale of your models or datasets. Using small models and datasets is encouraged.
+## Notes
+- We prioritize methodology and creativity over extensive resources or perfect results
+- Small models and datasets are acceptable and encouraged
+- Demonstrate your ability to understand and work with the tools and data
+- Show your passion for engaging with the problem domain
 
----
-
-## Task 2
-
-<!-- Additional details for Task 2 will be provided soon. Stay tuned! -->
-
----
-
-Good luck with your submission! We look forward to seeing your innovative approach and clear methodology in tackling these tasks. If you have any questions or need clarifications, make sure to engage with the community or reach out through the appropriate channels.
+Good luck with your submission! If you have any questions, please reach out through the appropriate channels.

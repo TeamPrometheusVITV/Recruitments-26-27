@@ -47,7 +47,7 @@
 
 ### Reference Image:
 
-![Part Modeling Reference](/images/partmodelcadfile.jpg)
+![Part Modeling Reference](/images/mech_files/resized_partmodel.jpg)
 
 ---
 
@@ -72,7 +72,7 @@
 
 ### Reference Image:
 
-![Assembly Modeling Reference](/images/assemblypic.jpg)
+![Assembly Modeling Reference](/images/mech_images/assemblypic.jpg)
 
 ---
 

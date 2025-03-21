@@ -47,7 +47,7 @@
 
 ### Reference Image:
 
-![Part Modeling Reference](/images/mech_files/resized_partmodel.jpg)
+![Part Modeling Reference](/images/mech_images/resized_partmodel.jpg)
 
 ---
 

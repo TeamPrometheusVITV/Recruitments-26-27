@@ -51,24 +51,25 @@
 
 ---
 
-## Task 2: Assembly Modeling
+## Task 2: Assembly Modeling and Analysis
 
 ### Objective:
 
 - Assemble the modeled parts using appropriate constraints.
 - Ensure the mechanism functions as intended.
+- Perform a basic motion study on the assembly.(Bonus)
 
 ### Instructions:
 
 1. Open a new assembly file in your CAD software.
 2. Import all the modeled parts.
 3. Use constraints (mates, joints, etc.) to assemble them correctly.
-4. Validate the movement and alignment of the assembly.
+4. Validate the movement and alignment of the assembly and perform a simple motion study.
 
 ### Submission:
 
 - Upload the final assembly file in .STEP and native format (.SLDASM/.F3D).
-- Provide screenshots of the fully assembled model.
+- Provide screenshots of the fully assembled model laong with a video of the motion analysis.
 
 ### Reference Image:
 
@@ -78,8 +79,6 @@
 
 ## Resources:
 
-- *CAD Basics & Tutorials:* [Insert link here]
-- *Engineering Drawing Interpretation Guide:* [Insert link here]
-- *Sample Projects for Practice:* [Insert link here]
+- *CAD Basics & Tutorials:* [CAD CAM Tutorials](https://www.youtube.com/@CADCAMTUTORIALBYMAHTABALAM)
 
 Good luck!

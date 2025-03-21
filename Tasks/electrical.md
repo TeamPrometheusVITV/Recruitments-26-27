@@ -4,50 +4,66 @@
 
 Welcome to the recruitment process for the RoboCup SSL Electrical team! This repository contains two tasks designed to evaluate your understanding of electrical engineering concepts, circuit design, and hardware integration in the context of robotic soccer.
 
-## Task 1: Motor Control System Design
+## Task 1: Environmental Probe Development  
 
-### Overview
-In this task, you will:
-- **Design a Motor Control Circuit**
-  - Create a schematic for a brushless DC motor control system
-  - Focus on efficient power delivery and precise control
-  - Include necessary protection circuits and feedback mechanisms
-  
-- **Simulate Your Design**
-  - Use simulation software (e.g., LTspice, MATLAB, or other free alternatives)
-  - Demonstrate performance under various load conditions
-  - Evaluate power efficiency and response time
+### Overview  
+In this task, you will:  
 
-### Deliverables
-- Complete circuit schematic (PDF or standard CAD format)
-- Simulation results with performance analysis
-- Bill of Materials (BOM) with estimated costs
-- Brief explanation of your design choices and trade-offs
+- **Develop an Environmental Probe in TinkerCAD**  
+  - Use [TinkerCAD](https://www.tinkercad.com) to create a virtual environmental probe.  
+  - Utilize **as many sensors as possible** to collect detailed environmental data.  
+  - Code the probe using **Arduino's programming language (C/C++)**.   
 
-## Task 2: Sensor Integration & Data Acquisition
+- **Visualize and Output Data**  
+  - Implement **State Indicators** such as LEDs and buzzers to represent sensor readings.  
+  - Display collected environmental data on the **Serial Monitor** for real-time observation.  
 
-### Overview
-In this task, you will:
-- **Design a Sensor Integration System**
-  - Create a solution for integrating multiple sensors (IMU, encoders, etc.)
-  - Develop a data acquisition strategy for real-time processing
-  - Focus on noise reduction and signal integrity
-  
-- **Implement Communication Protocol**
-  - Design a communication system between sensors and main controller
-  - Balance between speed, reliability, and power efficiency
-  - Consider electromagnetic interference in a competition environment
+### Clarification  
+An **Environmental Probe** is a device designed to collect atmospheric data from its surroundings. It gathers essential information needed to evaluate conditions for sustaining life in different environments.  
 
-### Deliverables
-- System architecture diagram
-- Circuit design for sensor integration
-- Communication protocol specification
-- Sample code for data acquisition (if applicable)
-- Analysis of potential failure modes and mitigation strategies
+### Deliverables  
+- A complete **TinkerCAD circuit design** with multiple sensors and indicators.  
+- **Code implementation** in the TinkerCAD simulation environment.  
+- A **detailed documentation report** including:  
+  - **Why you chose each sensor** and its relevance to environmental monitoring.  
+  - **How the data is processed and interpreted**.  
+  - **The significance of the collected data** in assessing environmental conditions.  
+  - **This documentation should clearly explain the purpose of each component and its role in the overall system.**  
+
+
+
+## Task 2: Single-Layer PCB Design  
+
+### Overview  
+In this task, you will:  
+
+- **Design a Single-Layer PCB**  
+  - Use **KiCad, Eagle, or any PCB design tool** to create a **compact and functional PCB**.  
+  - Integrate a **microcontroller (ESP32, Arduino, or ATmega328)** with essential components.  
+  - Ensure proper **trace routing, power distribution, and component placement**.  
+
+- **Implement an Environmental Sensor Interface**  
+  - Include a **temperature sensor (LM35 or DHT11)** to collect environmental data.  
+  - Add **State Indicators** such as LEDs or buzzers to visualize sensor readings.  
+  - Connect components efficiently while maintaining a **clean PCB layout**.  
+
+### Clarification  
+A **Single-Layer PCB** is a printed circuit board with conductive traces on only one side. The goal is to create a **functional and well-structured PCB** while ensuring **optimal component placement and routing efficiency**.  
+
+### Deliverables  
+- A **fully designed PCB layout** in **KiCad, Eagle, or any preferred PCB design software**.  
+- **Schematic diagram** showing the circuit connections.  
+- **Exported Gerber files** ready for fabrication.  
+- A **detailed documentation report** including:  
+  - **Why you selected each component** and its role in the circuit.  
+  - **How the PCB layout was optimized** for performance and space efficiency.  
+  - **Challenges faced and how they were addressed** in the design.  
+  - **This documentation should clearly explain the purpose of each component and its role in the overall system.**  
+
 
 ## Resources
 - [RoboCup SSL Official Repository](https://github.com/RoboCup-SSL)
-- Free tools: KiCad, LTspice, Fusion 360 (educational license)
+- Free tools: TinkerCAD, KiCad, LTspice, Fusion 360 (educational license)
 - [RoboCup SSL Rules](https://ssl.robocup.org/rules/)
 
 ## Notes

@@ -11,20 +11,21 @@ In this task, you will:
 
 - **Develop an Environmental Probe in TinkerCAD**  
   - Use [TinkerCAD](https://www.tinkercad.com) to create a virtual environmental probe.  
-  - Utilize **as many sensors as possible** to collect detailed environmental data.  
-  - Code the probe using **Arduino's programming language (C/C++)**.   
+  - It is mandatory to use an **IR sensor** and a **temperature sensor** for data collection.  
+  - You are **encouraged to include additional appropriate sensors** to enhance environmental monitoring.  
+  - Code the probe using Arduino's programming language (C/C++).   
 
 - **Visualize and Output Data**  
-  - Implement **State Indicators** such as LEDs and buzzers to represent sensor readings.  
-  - Display collected environmental data on the **Serial Monitor** for real-time observation.  
+  - Implement State Indicators such as LEDs and buzzers to represent sensor readings.  
+  - Display collected environmental data on the Serial Monitor for real-time observation.  
 
 ### Clarification  
-An **Environmental Probe** is a device designed to collect atmospheric data from its surroundings. It gathers essential information needed to evaluate conditions for sustaining life in different environments.  
+An Environmental Probe is a device designed to collect atmospheric data from its surroundings. It gathers essential information needed to evaluate conditions for sustaining life in different environments.  
 
 ### Deliverables  
-- A complete **TinkerCAD circuit design** with multiple sensors and indicators.  
-- **Code implementation** in the TinkerCAD simulation environment.  
-- A **detailed documentation report** including:  
+- A complete TinkerCAD circuit design with multiple sensors and indicators.  
+- Code implementation in the TinkerCAD simulation environment.  
+- A detailed documentation report including:  
   - **Why you chose each sensor** and its relevance to environmental monitoring.  
   - **How the data is processed and interpreted**.  
   - **The significance of the collected data** in assessing environmental conditions.  
@@ -63,7 +64,7 @@ A **Single-Layer PCB** is a printed circuit board with conductive traces on only
 
 ## Resources
 - [RoboCup SSL Official Repository](https://github.com/RoboCup-SSL)
-- Free tools: TinkerCAD, KiCad, LTspice, Fusion 360 (educational license)
+- Free tools: [TinkerCAD](https://www.tinkercad.com), [KiCad](https://downloads.kicad.org/kicad/)
 - [RoboCup SSL Rules](https://ssl.robocup.org/rules/)
 
 ## Notes

@@ -22,7 +22,7 @@
 2. *Engineering Drawings:*
 
    - You will be provided with a set of engineering drawings to replicate.
-   - Download the drawing files from [this link](https://drive.google.com/drive/folders/1YmzX0CpCGwb5VX5jUs5bLmZ9ZWYl4oAw?usp=drive_link) (Replace with actual link).
+   - Download the drawing files from [this link](https://drive.google.com/drive/folders/1YmzX0CpCGwb5VX5jUs5bLmZ9ZWYl4oAw?usp=drive_link).
 
 ---
 
@@ -47,7 +47,7 @@
 
 ### Reference Image:
 
-![Part Modeling Reference](#) (Replace with actual image link)
+![Part Modeling Reference](/images/partmodelcadfile.jpg)
 
 ---
 
@@ -72,7 +72,7 @@
 
 ### Reference Image:
 
-![Assembly Modeling Reference](#) (Replace with actual image link)
+![Assembly Modeling Reference](/images/assemblypic.jpg)
 
 ---
 

@@ -87,8 +87,9 @@ Create a poster to showcase Team Prometheus and our participation in the RoboCup
    - Simple phone recordings are acceptable - content matters more than production quality
 
 ### Reference Materials
-- Team logo and branding resources: [GitHub Resources](https://github.com/TeamPrometheusML/Recruitments-25-26/resources)
-- Sample posters for inspiration (not to copy): [Sample Poster](https://github.com/TeamPrometheusML/Recruitments-25-26/resources/sample_poster.jpg)
+- RoboWednesday poster example: [RoboWednesday Poster](https://drive.google.com/file/d/1beTSb_xnYIKDG9AsYTfqey7rNoXlaoPR/view?usp=sharing)
+- Team demo video for context: [Team Demo Video](https://drive.google.com/file/d/1G3Waak_-kPVXrNQTSPJppkXDJ_8Fntmu/view?usp=sharing)
+- Team logo for branding: [Team Logo](https://drive.google.com/file/d/1Y_2MmVUAja1mAbbSZ47mt8wqaKLR89sS/view?usp=sharing)
 
 ### Deliverables
 - **Poster** (PDF or JPG, A4 size)

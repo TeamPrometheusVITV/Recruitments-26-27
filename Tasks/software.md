@@ -36,17 +36,17 @@ In this task, you will:
   - Analyze the processed data to understand patterns and insights
   - Create at least 3 visualization diagrams
   
-- **Develop ML/DL Models**
+- **Develop ML/DL Models** (Optional)
   - Train models for any purpose within the RoboCup domain
   - Suggested applications: pass prediction, shot prediction, tackling, goalkeeping, etc.
 
 ### Deliverables
-- Comprehensive project documentation
+- Project documentation
 - At least 3 EDA visualization diagrams
-- System diagram for your ML process
-- Detailed reasoning for your methodology choices
+- System diagram for your ML process (Optional)
+- Reasoning for your methodology choices
 - Discussion of potential improvements
-- Sample trained model(s)
+- Sample trained model(s) (Optional)
 
 ## Resources
 - [RoboCup SSL Official Repository](https://github.com/RoboCup-SSL)

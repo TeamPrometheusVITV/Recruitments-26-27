@@ -102,90 +102,39 @@ A single Jupyter Notebook (`.ipynb`) containing:
 
 ---
 
-# Task 2: Transfermarkt Football Data Analysis & Valuation Modeling
+## **Task 2: Transfermarkt Football Data Analysis & Valuation Modeling**
 
-## Overview
+### **Overview**
 
-In this task, you will work with the comprehensive Football Player dataset from Transfermarkt, available on Kaggle. This dataset is unique for its detailed player market valuations, extensive appearance records, and regular updates. Your goal is to explore the data, uncover insights into player performance and valuation, and optionally build a machine learning model to predict player market values.
-
-Dataset: Football Data from Transfermarkt
-
----
-
-## Part 1: Basic Data Exploration
-
-- **Load and Structure:**
-  Load the multiple CSV files (`players.csv`, `clubs.csv`, `games.csv`, `player_valuations.csv`, `appearances.csv`, etc.). Explore the relationships between the files using their common IDs (e.g., `player_id`, `game_id`).
-
-- **Data Quality Check:**
-  Investigate the data for quality issues. Pay close attention to missing values in crucial columns like `market_value_in_eur` and performance stats like goals. Check for any duplicate entries.
-
-- **Descriptive Statistics:**
-  Provide summary statistics for key numerical variables, such as player age, height, market value, goals, assists, and minutes played.
+Work with the **Transfermarkt Football Player Dataset** from Kaggle, which includes detailed player valuations, performance records, and updates.
+Your goal is to **analyze**, **interpret**, and optionally **predict** player market values based on performance and attributes.
 
 ---
 
-## Part 2: Exploratory Data Analysis (EDA)
+### **Part 1: Exploratory Data Analysis (EDA)**
 
-Create at least 3 visualizations that provide meaningful insights into the world of football finance and performance. Your analysis should be accompanied by a brief interpretation of each chart.
-
-### Suggested Topics
-
-**Market Value Analysis**
-
-- Analyze the distribution of player market values across different leagues or positions.
-- Investigate the relationship between a player's age and their market value. At what age does a player's value typically peak?
-
-**Performance vs. Value**
-
-- Is there a strong correlation between a player's market value and their performance metrics (e.g., goals, assists per 90 minutes)?
-- Identify "undervalued" or "overvalued" players by comparing their performance statistics against their market value.
-
-**Club & League Financial Power**
-
-- Calculate and visualize the total market value of squads for different clubs or entire leagues. How does this financial power correlate with league standings?
-
-**Nationality and Value**
-
-- Which nationalities command the highest average market value? Create a bar chart or map to visualize this.
+Create at least **three visualizations** that provide meaningful insights into player performance, valuation, and financial trends across clubs and leagues.
+Each visualization should include a short interpretation explaining the observed trend or relationship.
 
 ---
 
-## Part 3: Simple ML Application (Optional)
+### **Part 2: (Optional) Simple ML Application**
 
-Develop a basic machine learning model to address one of the following challenges.
-
-### Suggested ML Tasks
-
-**Player Market Value Prediction (Regression):**
-
-- Build a model to predict a player's market value based on their attributes (age, position, height, foot) and recent performance statistics (goals, assists, minutes played).
-- This is the primary recommended task for this dataset.
-
-**Player Performance Prediction (Regression/Classification):**
-
-- Predict the number of goals a forward will score in the next season based on their historical data.
-
-**Identifying Player Potential (Classification):**
-
-- Build a model to classify young players as having "high potential" (e.g., likely to see a significant market value increase) based on their early career stats.
+Develop a basic **machine learning model** to predict **player market value** or **performance** using features such as age, position, height, and stats (goals, assists, minutes played).
 
 ---
 
-## Deliverables
+### **Deliverables**
 
-- A Jupyter Notebook (`.ipynb`) or a link to a Kaggle/Colab notebook containing your complete analysis, from data loading to final conclusions.
-- At least 3 well-labeled visualizations with clear interpretations explaining what insights they reveal.
-- A brief written summary of your methodology, key findings from the EDA, and overall conclusions.
+* A **Jupyter Notebook (.ipynb)** or **Kaggle/Colab link** containing:
 
-If attempting the ML part:
-
-- **Feature Selection:** Justify why you chose certain features for your model.
-- **Model Choice:** Briefly explain your choice of algorithm (e.g., Linear Regression, Random Forest, Gradient Boosting).
-- **Performance Metrics:** Report basic performance metrics for your model (e.g., Mean Absolute Error (MAE) or R-squared for regression; Accuracy or F1-score for classification).
+  * Complete data analysis and visualizations
+  * Interpretations and key findings
+  * (Optional) Machine learning model and evaluation metrics
+* At least **three labeled visualizations** with clear explanations
+* A **short written summary** of your methodology, insights, and conclusions
 
 ---
-
 ## Resources
 
 - **Dataset:** Football Data from Transfermarkt on Kaggle

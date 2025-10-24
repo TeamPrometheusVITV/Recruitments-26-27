@@ -120,7 +120,7 @@ Each visualization should include a short interpretation explaining the observed
 
 ### **Part 2: (Optional) Simple ML Application**
 
-Develop a basic **machine learning model** to predict **player market value** or **performance** using features such as age, position, height, and stats (goals, assists, minutes played).
+Develop a basic **machine learning model** over the dataset you have conducted EDA on and reason why you arrived at that decision.
 
 ---
 

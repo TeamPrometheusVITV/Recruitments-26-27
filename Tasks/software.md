@@ -1,13 +1,14 @@
 ![Team Banner](/images/Team%20Banner.png)
+
 # RoboCup SSL Software Team Recruitment Tasks 2026-27
-Welcome to the recruitment process for the RoboCup SSL Software team! This repository contains two tasks designed to evaluate your understanding of computer vision, machine learning, and data processing in the context of robotic soccer.
----
+
+## Welcome to the recruitment process for the RoboCup SSL Software team! This repository contains two tasks designed to evaluate your understanding of computer vision, machine learning, and data processing in the context of robotic soccer.
 
 # Task 1: A-Star vs. BFS Pathfinding Mini-Challenge
 
 ## Overview
 
-Your goal is to find the most efficient path for a robot on a grid to reach a ball, avoiding obstacles. You will implement and compare two classic algorithms, BFS and A*, on a single, pre-defined field to see how they perform.
+Your goal is to find the most efficient path for a robot on a grid to reach a ball, avoiding obstacles. You will implement and compare two classic algorithms, BFS and A\*, on a single, pre-defined field to see how they perform.
 
 ---
 
@@ -48,15 +49,15 @@ Implement two functions that take the grid, start, and goal positions as input. 
 1. **Breadth-First Search (BFS):**
    An algorithm that explores layer-by-layer. It's guaranteed to find the shortest path in terms of steps.
 
-2. **A* Search:**
+2. **A\* Search:**
    A "smarter" algorithm that uses a heuristic to guide its search.
    Use the Manhattan Distance for your heuristic:
    `h = |x1 - x2| + |y1 - y2|`
 
 Each function should return two things:
 
-* The final path (a list of coordinates)
-* The number of nodes explored
+- The final path (a list of coordinates)
+- The number of nodes explored
 
 ---
 
@@ -64,10 +65,10 @@ Each function should return two things:
 
 ### 2.1 Visualize the Paths
 
-Create two visualizations using matplotlib—one for the BFS result and one for the A* result. Each plot should clearly show:
+Create two visualizations using matplotlib—one for the BFS result and one for the A\* result. Each plot should clearly show:
 
-* The grid with obstacles
-* The final path taken by the robot
+- The grid with obstacles
+- The final path taken by the robot
 
 ---
 
@@ -95,7 +96,7 @@ This direct comparison is enough to see the difference in efficiency.
 
 A single Jupyter Notebook (`.ipynb`) containing:
 
-1. The code for your BFS and A* implementations.
+1. The code for your BFS and A\* implementations.
 2. The two output visualizations (one for each algorithm's path).
 3. The final printout of the path length and nodes explored for both algorithms.
 
@@ -113,13 +114,13 @@ Dataset: Football Data from Transfermarkt
 
 ## Part 1: Basic Data Exploration
 
-* **Load and Structure:**
+- **Load and Structure:**
   Load the multiple CSV files (`players.csv`, `clubs.csv`, `games.csv`, `player_valuations.csv`, `appearances.csv`, etc.). Explore the relationships between the files using their common IDs (e.g., `player_id`, `game_id`).
 
-* **Data Quality Check:**
+- **Data Quality Check:**
   Investigate the data for quality issues. Pay close attention to missing values in crucial columns like `market_value_in_eur` and performance stats like goals. Check for any duplicate entries.
 
-* **Descriptive Statistics:**
+- **Descriptive Statistics:**
   Provide summary statistics for key numerical variables, such as player age, height, market value, goals, assists, and minutes played.
 
 ---
@@ -132,21 +133,21 @@ Create at least 3 visualizations that provide meaningful insights into the world
 
 **Market Value Analysis**
 
-* Analyze the distribution of player market values across different leagues or positions.
-* Investigate the relationship between a player's age and their market value. At what age does a player's value typically peak?
+- Analyze the distribution of player market values across different leagues or positions.
+- Investigate the relationship between a player's age and their market value. At what age does a player's value typically peak?
 
 **Performance vs. Value**
 
-* Is there a strong correlation between a player's market value and their performance metrics (e.g., goals, assists per 90 minutes)?
-* Identify "undervalued" or "overvalued" players by comparing their performance statistics against their market value.
+- Is there a strong correlation between a player's market value and their performance metrics (e.g., goals, assists per 90 minutes)?
+- Identify "undervalued" or "overvalued" players by comparing their performance statistics against their market value.
 
 **Club & League Financial Power**
 
-* Calculate and visualize the total market value of squads for different clubs or entire leagues. How does this financial power correlate with league standings?
+- Calculate and visualize the total market value of squads for different clubs or entire leagues. How does this financial power correlate with league standings?
 
 **Nationality and Value**
 
-* Which nationalities command the highest average market value? Create a bar chart or map to visualize this.
+- Which nationalities command the highest average market value? Create a bar chart or map to visualize this.
 
 ---
 
@@ -158,42 +159,43 @@ Develop a basic machine learning model to address one of the following challenge
 
 **Player Market Value Prediction (Regression):**
 
-* Build a model to predict a player's market value based on their attributes (age, position, height, foot) and recent performance statistics (goals, assists, minutes played).
-* This is the primary recommended task for this dataset.
+- Build a model to predict a player's market value based on their attributes (age, position, height, foot) and recent performance statistics (goals, assists, minutes played).
+- This is the primary recommended task for this dataset.
 
 **Player Performance Prediction (Regression/Classification):**
 
-* Predict the number of goals a forward will score in the next season based on their historical data.
+- Predict the number of goals a forward will score in the next season based on their historical data.
 
 **Identifying Player Potential (Classification):**
 
-* Build a model to classify young players as having "high potential" (e.g., likely to see a significant market value increase) based on their early career stats.
+- Build a model to classify young players as having "high potential" (e.g., likely to see a significant market value increase) based on their early career stats.
 
 ---
 
 ## Deliverables
 
-* A Jupyter Notebook (`.ipynb`) or a link to a Kaggle/Colab notebook containing your complete analysis, from data loading to final conclusions.
-* At least 3 well-labeled visualizations with clear interpretations explaining what insights they reveal.
-* A brief written summary of your methodology, key findings from the EDA, and overall conclusions.
+- A Jupyter Notebook (`.ipynb`) or a link to a Kaggle/Colab notebook containing your complete analysis, from data loading to final conclusions.
+- At least 3 well-labeled visualizations with clear interpretations explaining what insights they reveal.
+- A brief written summary of your methodology, key findings from the EDA, and overall conclusions.
 
 If attempting the ML part:
 
-* **Feature Selection:** Justify why you chose certain features for your model.
-* **Model Choice:** Briefly explain your choice of algorithm (e.g., Linear Regression, Random Forest, Gradient Boosting).
-* **Performance Metrics:** Report basic performance metrics for your model (e.g., Mean Absolute Error (MAE) or R-squared for regression; Accuracy or F1-score for classification).
+- **Feature Selection:** Justify why you chose certain features for your model.
+- **Model Choice:** Briefly explain your choice of algorithm (e.g., Linear Regression, Random Forest, Gradient Boosting).
+- **Performance Metrics:** Report basic performance metrics for your model (e.g., Mean Absolute Error (MAE) or R-squared for regression; Accuracy or F1-score for classification).
 
 ---
 
 ## Resources
 
-* **Dataset:** Football Data from Transfermarkt on Kaggle
-* **Tools:** Kaggle Notebooks, Google Colab, or a local Jupyter environment
-* **Python Libraries:** `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
+- **Dataset:** Football Data from Transfermarkt on Kaggle
+- **Tools:** Kaggle Notebooks, Google Colab, or a local Jupyter environment
+- **Python Libraries:** `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
 
 ---
 
 ## Notes
+
 - We prioritize methodology and clear understanding over complex analysis
 - Focus on communicating your findings effectively
 - Show your ability to extract meaningful insights from sports data

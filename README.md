@@ -9,7 +9,7 @@ Welcome to the Team Prometheus recruitment process! We are a newly formed team p
 ## Important Dates & Deadlines
 
 - **Assignment Start Date:** 30/10/2026
-- **Submission Deadline:** 30/10/2025 (Friday) at **midnight**  
+- **Submission Deadline:** 30/10/2025 (THURSDAY) at **midnight**  
   _Late submissions will not be accepted._
 - **Round 3 Assessments:** Starting 24/10/2026 onward  
   _Your understanding will be put to the test in Round 3, based on your submissions and deeper insights._
@@ -69,5 +69,6 @@ _— Team Prometheus_
 - **Stay Organized:** Keep notes of your ideas and process; this may help you later in the competition and your future projects.
 
 Feel free to explore further, and let your ingenuity lead the way in this recruitment challenge!
+
 
 

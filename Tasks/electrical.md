@@ -63,7 +63,7 @@ Your PCB should act as a _central hub_ connecting the robot’s sensors, actuato
 ### 📦 Deliverables
 
 - _Schematic and PCB layout_ (KiCad, Eagle, or Altium).
-- _Gerber files_ ready for fabrication.
+- [Optional] _Gerber files_ ready for fabrication.
 - A _report_ detailing:
   - Design reasoning and component selection.
   - PCB layout strategy (trace routing, decoupling, ground plane usage).

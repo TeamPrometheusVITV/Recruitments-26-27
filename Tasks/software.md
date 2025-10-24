@@ -1,8 +1,8 @@
 ![Team Banner](/images/Team%20Banner.png)
 
-# RoboCup SSL Software Team Recruitment Tasks 2026-27
+# RoboCup Software Team Recruitment Tasks 2026-27
 
-## Welcome to the recruitment process for the RoboCup SSL Software team! This repository contains two tasks designed to evaluate your understanding of computer vision, machine learning, and data processing in the context of robotic soccer.
+## Welcome to the recruitment process for the RoboCup Humainoid Kid's sized league Software team! This repository contains two tasks designed to evaluate your understanding of computer vision, machine learning, and data processing in the context of robotic soccer.
 
 # Task 1: A-Star vs. BFS Pathfinding Mini-Challenge
 

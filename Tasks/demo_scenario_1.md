@@ -3,7 +3,7 @@
 # Project Scenario: RoboCup Preparation for Team Prometheus
 
 **Objective:**  
-Prepare and deliver a fully integrated prototype for the upcoming RoboCup Robosoccer competition in the SSL (Small Sized League).
+Prepare and deliver a fully integrated prototype for the upcoming RoboCup humanoid competition in the kid's League.
 
 Below are sample project tasks provided in a non-sequential order. Use your project planning skills to reorder them, assign realistic start and end dates, and identify dependencies among tasks.
 

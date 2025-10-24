@@ -2,61 +2,53 @@
 # RoboCup SSL Software Team Recruitment Tasks 2025-26
 Welcome to the recruitment process for the RoboCup SSL Software team! This repository contains two tasks designed to evaluate your understanding of computer vision, machine learning, and data processing in the context of robotic soccer.
 
-## Task 1: Ball Detection Dataset & Model Training
+## Task 1: Path Planning and Obstacle Navigation
+
 ### Overview
-In this task, you will:
-- **Create a Ball Detection Dataset**
-  - Use Roboflow to build your own dataset for ball detection
-  - Limited to 20 images maximum
-  - Focus on understanding the basics of dataset creation
-- **Train a Detection Model**
-  - Train your model using free GPU resources (Kaggle or Google Colab)
-  - Optionally incorporate open source datasets
-  - Extra points for well-curated datasets
-### Deliverables
-- Trained model file (`.pt`, `.pth`, `.bin`, `.onnx`, `.t5`, or other standard format)
-- Screenshot of your Roboflow dataset
-- Link to any open source dataset used (if applicable)
-- Brief explanation of your methodology and approach
+In this task, you will design and compare pathfinding algorithms that help a RoboSoccer robot navigate toward the ball while avoiding obstacles.
 
-## Task 2: Soccer Database Analysis & ML Application
-### Overview
-In this task, you will work with the European Soccer Database available on Kaggle:
-https://www.kaggle.com/datasets/hugomathien/soccer
+#### Create a Field Simulation
+- Represent a RoboSoccer field as a **2D grid** (e.g., 20×20 or 30×30).  
+- Mark positions for:  
+  - **Robot (R)** → starting point  
+  - **Ball (B)** → goal  
+  - **Obstacles (O)** → walls or opponent robots  
+- Randomize the placement of obstacles to generate multiple test cases.  
 
-- **Perform Basic Data Exploration**
-  - Load and explore the database structure (tables, relationships)
-  - Check data quality (missing values, duplicates)
-  - Describe basic statistics of key variables
-  
-- **Exploratory Data Analysis**
-  - Create at least 3 visualizations that provide insights into soccer matches, players, or teams
-  - Suggested topics:
-    - Home advantage analysis
-    - Player attributes distribution
-    - Team performance trends over seasons
-    - Match statistics correlations
-  
-- **Simple ML Application** (Optional)
-  - Develop a basic ML model for one of the following:
-    - Match outcome prediction (Home win, Draw, Away win)
-    - Player rating prediction based on attributes
-    - Team strength estimation
-    - Goal scoring probability
+#### Implement and Compare Algorithms
+Implement at least **two pathfinding algorithms**:
+- **Breadth-First Search (BFS):** explores all possible paths to reach the goal.  
+- **A\*** (or **Dijkstra’s Algorithm**): uses cost and heuristic values for efficient navigation.  
 
-### Deliverables
-- Jupyter notebook showing your data exploration and analysis
-- At least 3 visualization diagrams with interpretations
-- Brief explanation of your methodology and findings
-- If attempting the ML part:
-  - Feature selection justification
-  - Model choice explanation
-  - Basic performance metrics
+For each algorithm, measure and record:
+- Total **path length**  
+- **Execution time**  
+- **Number of explored steps**  
 
-## Resources
-- [European Soccer Database on Kaggle](https://www.kaggle.com/datasets/hugomathien/soccer)
-- Free tools: Kaggle, Google Colab, Jupyter Notebook
-- Python libraries: pandas, matplotlib, seaborn, scikit-learn
+Store your results in a simple **table or CSV file**.  
+
+#### Visualize the Simulation
+Use **Matplotlib** or **Pygame** to visualize your grid, showing:
+- The robot’s movement path (colored line)  
+- Obstacle positions  
+- Ball location  
+
+Optionally, animate the robot’s movement step by step.
+
+
+#### Evaluate and Analyze Results
+Run both algorithms on at least **three different grid configurations** with varying obstacle density.  
+Compare their efficiency and explain **which algorithm performs better and why**.
+
+#### Deliverables
+- Code file (`.py` or `.ipynb`) containing both algorithms  
+- Screenshot or visualization output of your pathfinding simulation  
+- CSV or table comparing results (path length, time, steps)  
+- Short explanation (~200 words) of your methodology and findings  
+
+---
+
+
 
 ## Notes
 - We prioritize methodology and clear understanding over complex analysis

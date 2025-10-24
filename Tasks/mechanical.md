@@ -1,6 +1,6 @@
 ![Team Banner](/images/Team%20Banner.png)
 
-# Mechanical Recruitment Task 2025-26
+# Mechanical Recruitment Task 2026-27
 
 ## Introduction to Mechanical Design and Assembly
 
@@ -69,7 +69,7 @@
 ### Submission:
 
 - Upload the final assembly file in .STEP and native format (.SLDASM/.F3D).
-- Provide screenshots of the fully assembled model laong with a video of the motion analysis.
+- Provide screenshots of the fully assembled model along with a video of the motion analysis.
 
 ### Reference Image:
 
